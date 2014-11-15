@@ -1,3 +1,10 @@
+/* color combination:
+	#1D2F3E background
+	#152737 header background
+	#0F9FB4 hanna background
+	#0FB493 sanna background
+	#C9E1C1 header text-color 
+*/
 .container{
 	background-color: #1D2F3E;
 	}
@@ -20,7 +27,7 @@
 	font-family: 'Pacifico', cursive;
 	width: 45%;
 	border-radius: 10px;
-	margin-left: 20px;
+	margin-left: 35px;
 	padding-bottom: 20px;
 	margin-top: 50px;
 }
@@ -37,7 +44,7 @@
 	font-family: 'Pacifico', cursive;
 	width: 45%;
 	border-radius: 10px;
-	margin-right: 20px;
+	margin-right: 35px;
 	padding-bottom: 20px;
 	margin-top: 50px;
 }
