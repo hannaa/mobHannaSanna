@@ -7,27 +7,33 @@
 	background-color: #1D2F3E;
 	font-family: 'Pacifico', cursive;
 	font-size: 20px;
-	color: #000000;
+	color: #0F9FB4;
 	width: 50%;
 	margin-left: 25%;
 	border-radius: 15px;
 	
 	}
 .hanna{
+	text-align: center;
+	float: left;
 	background-color: #C9E1C1;
 	font-family: 'Pacifico', cursive;
 	width: 45%;
 	border-radius: 10px;
+	margin-left: 20px;
 	padding-bottom: 20px;
-	margin-right: 50%;
+	
 	}
 
 .sanna{
+	text-align: center;
+	float: right;
 	background-color: #C9E1C1;
 	font-family: 'Pacifico', cursive;
 	width: 45%;
 	border-radius: 10px;
+	margin-right: 20px;
 	padding-bottom: 20px;
-	margin-left: 50%;
+	
 	
 	}
