@@ -22,9 +22,12 @@
 	border-radius: 10px;
 	margin-left: 20px;
 	padding-bottom: 20px;
-	
-	}
+	margin-top: 50px;
+}
 
+#hanna{
+	font-size: 20px;
+}
 	
 
 .scontent{
@@ -36,6 +39,9 @@
 	border-radius: 10px;
 	margin-right: 20px;
 	padding-bottom: 20px;
-	
-	
-	}
+	margin-top: 50px;
+}
+
+#sanna{
+	font-size: 20px;
+}
