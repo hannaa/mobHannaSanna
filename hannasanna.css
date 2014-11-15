@@ -2,9 +2,32 @@
 	background-color: #1D2F3E;
 	}
 
-#header{
+.header{
 	text-align: center;
-	background-color: #0F9FB4;
+	background-color: #1D2F3E;
 	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+	color: #000000;
+	width: 50%;
+	margin-left: 25%;
+	border-radius: 15px;
+	
+	}
+.hanna{
+	background-color: #C9E1C1;
+	font-family: 'Pacifico', cursive;
+	width: 45%;
+	border-radius: 10px;
+	padding-bottom: 20px;
+	margin-right: 50%;
+	}
+
+.sanna{
+	background-color: #C9E1C1;
+	font-family: 'Pacifico', cursive;
+	width: 45%;
+	border-radius: 10px;
+	padding-bottom: 20px;
+	margin-left: 50%;
 	
 	}
