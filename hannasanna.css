@@ -36,6 +36,12 @@
 	font-size: 20px;
 }
 	
+#himage{
+		float: left;
+		width: 500px;
+		
+		
+}	
 
 .scontent{
 	text-align: center;
@@ -51,4 +57,10 @@
 
 #sanna{
 	font-size: 20px;
+}
+
+#simage{
+		width: 500px;
+		float: left;
+		
 }
