@@ -32,13 +32,19 @@
 	margin-top: 50px;
 }
 
-#hanna{
+#hannaheader{
 	font-size: 20px;
+	background-color: #0FB493; 
+	width: 50%;
+	margin-left: 25%;
+	border-radius: 10px;
+
 }
 	
 #himage{
 		float: left;
 		width: 500px;
+		
 		
 		
 }	
@@ -55,8 +61,12 @@
 	margin-top: 50px;
 }
 
-#sanna{
+#sannaheader{
 	font-size: 20px;
+	background-color: #0F9FB4;
+	border-radius: 10px;
+	width: 50%;
+	margin-left: 25%;
 }
 
 #simage{
