@@ -26,6 +26,7 @@
 	background-color: #0F9FB4;
 	font-family: 'Pacifico', cursive;
 	width: 45%;
+	height: 633px;
 	border-radius: 10px;
 	margin-left: 35px;
 	padding-bottom: 20px;
@@ -41,13 +42,14 @@
 
 }
 	
-#himage{
+#hannapic{
+		float: right;
+		width: 250px;
+}
+
+#htext{
 		float: left;
-		width: 500px;
-		
-		
-		
-}	
+}
 
 .scontent{
 	text-align: center;
@@ -55,6 +57,7 @@
 	background-color: #0FB493;
 	font-family: 'Pacifico', cursive;
 	width: 45%;
+	height: 633px;
 	border-radius: 10px;
 	margin-right: 35px;
 	padding-bottom: 20px;
@@ -69,8 +72,11 @@
 	margin-left: 25%;
 }
 
-#simage{
-		width: 500px;
+
+#sannapic{
+		float: right;
+		width: 230px;
+}
+#stext{
 		float: left;
-		
 }
