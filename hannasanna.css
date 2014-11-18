@@ -55,7 +55,7 @@ body {
 	
 #hannapic{
 	float: right;
-	width: 250px;
+	
 }
 
 #htext{
@@ -86,14 +86,14 @@ body {
 }
 
 #simage{
-	width: 45%;
+	width: 50%;
 	height: 100%;
 	float: left;
 }
 
 #sannapic{
 	float: right;
-	width: 230px;
+
 }
 #stext{
 	float: left;
