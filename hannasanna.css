@@ -63,10 +63,6 @@ body {
 	height: 100%;
 	width: 50%
 }
-#hpuh{
-	text-align: left;
-
-}
 
 .scontent{
 	text-align: center;
@@ -103,9 +99,11 @@ body {
 	float: left;
 	height: 100%;
 	width: 50%
+    
+    
 }
 
-@media screen and (max-width: 960px){
+@media screen and (max-device-width: 800px){
 	
 
 .container{
@@ -116,7 +114,7 @@ body {
 	text-align: center;
 	/* background-color: #7F909A; */
 	font-family: 'Pacifico', cursive;
-	font-size: 20px;
+	font-size: 35px;
 	color:  #FFFFFF;
 	width: 52%;
 	margin-left: 25%;
@@ -130,21 +128,22 @@ body {
 	background-color: #ED6639;
 	font-family: 'Pacifico', cursive;
 	width: 90%;
-	/* height: 50%; */
-	border-radius: 10px;
+	height: 50%;
+	border-radius: 20px;
 	margin-left: 35px;
 	padding-bottom: 20px;
 	margin-top: 50px;
 }
 
 #hannaheader{
-	font-size: 20px;
+	font-size: 50px;
 	background-color: ; 
 	width: 50%;
 	margin-left: 25%;
 	border-radius: 10px;
 
 }
+
 
 #himage{
 	width: 50%;
@@ -156,8 +155,12 @@ body {
 	float: right;
 	
 }
+#hpuh{
+    font-size: 60px;
+}
 
 #htext{
+    font-size: 38px;
 	float: left;
 	height: 100%;
 	width: 50%
@@ -169,8 +172,8 @@ body {
 	background-color: #385B9F;
 	font-family: 'Pacifico', cursive;
 	width: 90%;
-	/* height: 50%; */
-	border-radius: 10px;
+	height: 50%; 
+	border-radius: 20px;
 	margin-left: 35px;
 	padding-bottom: 20px;
 	margin-top: 50px;
@@ -178,7 +181,7 @@ body {
 }
 
 #sannaheader{
-	font-size: 20px;
+	font-size: 50px;
 	background-color: ;
 	border-radius: 10px;
 	width: 50%;
@@ -195,7 +198,12 @@ body {
 	float: right;
 
 }
+#spuh{
+    font-size: 60px;
+}
+
 #stext{
+    font-size: 38px;
 	float: left;
 	height: 100%;
 	width: 50%
